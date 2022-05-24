@@ -1,6 +1,5 @@
-### Hi there 👋
-# Blog posts
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+
+## Hey there, programmer when i want, gamer on free time :)
 <div align="center">
   <a href="https://github.com/imlukas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imlukas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
