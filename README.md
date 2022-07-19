@@ -2,7 +2,7 @@
 ## Hey there, programmer when i want, gamer on free time :)
 ### Primary Things i do:
 📗 - Java/Spigot developer, learning new stuff everyday  
-📘 - C# - WPF/Xaml
+📘 - WPF/Xaml
 📒 - Python  
 📙 - Can make some HTML and CSS (Static, mostly). No experience with JS.  
 <div align="center">
