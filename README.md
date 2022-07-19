@@ -3,7 +3,6 @@
 ### Primary Things i do:
 📗 - Java/Spigot developer, learning new stuff everyday  
 📘 - WPF/Xaml
-
 📒 - Python  
 📙 - Can make some HTML and CSS (Static, mostly). No experience with JS.  
 <div align="center">
