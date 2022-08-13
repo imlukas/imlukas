@@ -1,5 +1,5 @@
 
-## Hey there, programmer when i want, gamer on free time :)
+## Hey there, I'm a programmer and gamer on free time :)
 ### Primary Things i do:
 📗 - Java/Spigot developer, learning new stuff everyday  
 📘 - C# (WPF/Xaml)     
