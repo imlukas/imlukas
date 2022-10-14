@@ -1,6 +1,6 @@
 
 ## Hey there, I'm a programmer and gamer on free time :)
-###Things i do:
+### Things i do:
 📗 - Java/Spigot developer, learning new stuff everyday  
 📘 - C# (WPF/Xaml)     
 📒 - Python  
