@@ -4,7 +4,7 @@
 📗 - Java/Spigot developer, learning new stuff everyday  
 📘 - C# (WPF/Xaml)     
 📒 - Python  
-📙 - Can make some stuff in HTML and CSS. Little experience with JS, learning more at the moment.
+📙 - Can make some stuff in HTML and CSS. Little experience with JS / TS.
 <div align="center">
   <a href="https://github.com/imlukas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imlukas&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
