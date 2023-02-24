@@ -17,7 +17,7 @@
     <img align="center" alt="lukas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lukas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="lukas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/242337261629210626/27ac7525850c68767cc17ef647c778ee.png?size=4096">
+  <img align="right" alt="lukas-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/yZQp9wz.jpg">
 </div>
   
   ##
