@@ -1,7 +1,7 @@
 
 <h1 align="center" > Hi 👋 I'm Lukas Pinheiro</h1>
 
-<p align="center">I'm a java developer mostly focused on developing stuff for Minecraft using SpigotAPI.</p>
+<p align="center">I'm a developer mostly focused on building stuff for Minecraft using SpigotAPI.</p>
 <p align="center">I can also make discord bots and have fun with java in general.</p>
   
   
