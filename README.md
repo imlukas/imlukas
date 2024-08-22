@@ -4,7 +4,6 @@
 <p align="center">I'm a java developer mostly focused on developing stuff for Minecraft using SpigotAPI.</p>
 <p align="center">I can also make discord bots and have fun with java in general.</p>
   
-<img align="right" alt="lukas-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/yZQp9wz.jpg">
   
   ## Connect with me
  
